@@ -4,12 +4,12 @@ Arrays:
 SortingArray.java
 1)write a java code for sorting an array, and find number of occurrences of a particular number in java.
 
-MaxElementarray.java 
+MaxElementArray.java 
 2)write a java code to find the maximum element in array.
 
 Polymorphism:
 
-Polymorphism.java
+Animal.java
 1)Create a base class Animal with a method makeSound(). Create two derived classes Dog and Cat that override the makeSound() method. Illustrate runtime polymorphism by creating objects of both derived classes and invoking the method.
 
 MathOperations.java 
