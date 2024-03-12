@@ -1,7 +1,7 @@
 
 // 2)Create a Java class MathOperations with overloaded methods for addition (add) that can accept two integers, three doubles, and two strings, respectively. Demonstrate the usage of these methods in the main method by adding two integers, three doubles, and concatenating two strings.
 
-public class Operations{
+public class MathOperations{
 
     public int add(int x, int y) {
         return x + y;
@@ -16,7 +16,7 @@ public class Operations{
     }
 
     public static void main(String[] args){
-        Operations op = new Operations();
+        MathOperations op = new MathOperations();
         int IntSum = op.add(35, 87);
         System.out.println("Sum of two integers: " + IntSum);
         double DoubleSum = op.add(91.02, 56.91, 11.11);
